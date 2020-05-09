@@ -1,0 +1,13 @@
+{
+  // Your name must match the name which you published your package under on npm
+  "name": "hyper-robot-theme",
+  // Describe your theme or plugin! If you have a description in your package.json, this is optional
+  "description": "Elegant Hyper theme with bright colors",
+  // List if your package is a "plugin" or "theme" so we can properly sort it
+  "type": "theme",
+  // A preview image of your plugin or theme. Can be a gif, png, jpeg, etc. Recommended dimensions
+  // are 600x400 pixels but it'd be perfect if you could make the density 2x for retina screens (1200x800)
+  "preview": "https://hyper-plugin-screenshots.now.sh/hyper-snazzy.png",
+  "colors": ["#ff008e", "#50f0fb", "#EB07EE", "#FFEB3B"],
+  "dateAdded": "1588635078433"
+}

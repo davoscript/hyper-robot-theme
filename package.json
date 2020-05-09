@@ -1,0 +1,20 @@
+{
+  "name": "hyper-robot-theme",
+  "version": "1.0.0",
+  "description": "......",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Fuentes",
+  "license": "MIT",
+  "keywords": [
+    "hyper.js",
+    "hyper-theme",
+    "robot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "......"
+  }
+}
